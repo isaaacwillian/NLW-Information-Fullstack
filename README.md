@@ -5,8 +5,8 @@
 ---
 
 <div align="center" >
-  <img src="./NLW-Web-2022/github/readme.gif" alt="demo-web" height="400">
-  <img src="./NLW-Mobile/github/readme.gif" alt="demo-mobile" height="400">
+  <img src="./github/readmeWeb.gif" alt="demo-web" height="400">
+  <img src="./github/readmeMobile.gif" alt="demo-mobile" height="400">
 </div>
 
 ---
