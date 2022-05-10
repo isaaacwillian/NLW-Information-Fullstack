@@ -1,0 +1,9 @@
+[submodule "NLW-Web-2022"]
+	path = NLW-Web-2022
+	url = https://github.com/isaaacwillian/NLW-Web-2022.git
+[submodule "NLW-Server"]
+	path = NLW-Server
+	url = https://github.com/isaaacwillian/NLW-Server.git
+[submodule "NLW-Mobile"]
+	path = NLW-Mobile
+	url = https://github.com/isaaacwillian/NLW-Mobile.git
